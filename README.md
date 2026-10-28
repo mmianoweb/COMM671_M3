@@ -7,4 +7,4 @@ This repository *marks* the foundation of my web development path as I learn to 
 * **Platforms & Tools:** Learning Management Systems (LMS), Google Workspace, Microsoft Office Suite
 * **Human-Centered Practices:** Expressive Arts Facilitation, Mentoring, Active Listening, Strategic Collaboration
 ### AI-assisted
-*The concepts and the personal and professional discourse and vision in this README are self-authored. However, this project was drafted with the support of an AI assistant as a collaborative editing tool to polish and refine the text clarity and structural formatting to ensure proper Markdown code.  
+*The concepts and the personal and professional discourse and vision in this README are self-authored. However, this project was drafted with the support of an AI assistant as a collaborative editing tool to polish and refine the text clarity and structural formatting to ensure proper Markdown code.*  
